@@ -411,9 +411,6 @@ section .container {
  
 }
 /* Hide the header image on all pages except the homepage */
-body:not(#homepage) #header-image {
-  display: none;
-}
 
 /* .black-and-white{
   filter: grayscale(100%);
