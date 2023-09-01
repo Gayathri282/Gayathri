@@ -404,13 +404,11 @@ section .container {
   height: 250px;
   border-radius: 50%;
   overflow: hidden;
- /* margin-left: 800px; */
- z-index: -999;
 }
 .circle img{
   width: 100%;
   height: auto;
-  z-index: -999;
+ 
 }
 /* Hide the header image on all pages except the homepage */
 body:not(#homepage) #header-image {
