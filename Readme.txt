@@ -1,1 +1,1 @@
-This is an exmaple static portflio website
+This is an example static portflio website
